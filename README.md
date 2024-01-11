@@ -40,10 +40,4 @@ npm start
 
 This will start the server on `http://localhost:3000/`, where you can interact with the AI chatbot.
 
-## Contributing
 
-If you find any issues with the AI chatbot or have any suggestions for improvement, please feel free to contribute to the project. You can submit a pull request or open an issue on the GitHub repository.
-
-### Author
-
-[@uixaadi](https://github.com/uixaadi)
